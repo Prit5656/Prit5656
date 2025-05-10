@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Prit, a Test Engineer at Miipe 🚀;
+- 👋 Hi, I’m Prit, a Test Engineer ; 
 - 👀 I’m interested in Software Quality Assurance and Testing;
-- 🌱 I’m currently working on learning advance Javascript with Cypress, Node.js, Postaman on day to day basis for testing;
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 I’m currently working on learning advanced JavaScript with Cypress, Selenium, Postman on a day-to-day basis for testing;
+- 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: prit.patel1104@gmail.com or call me at +437-343-4178;
